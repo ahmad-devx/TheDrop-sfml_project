@@ -8,7 +8,7 @@ A 2D grid based courier delivery game built using C++ and SFML 3.1 in which ther
 
 \## Group Members \& Work Distribution
 
-\* \*\*Ahmed\*\* – SFML 3.1 window/event loop (`main.cpp`), game state structures (`game.hpp`), Visual Studio \& GitHub setup.
+\* \*\*Ahmad\*\* – SFML 3.1 event loop (`main.cpp`), game states (`game.hpp`), Visual Studio \& GitHub setup.
 
 \* \*\*Suleman\*\* – 2D city map array, keyboard movement, and tile collision logic (`game.cpp`).
 
@@ -26,7 +26,7 @@ A 2D grid based courier delivery game built using C++ and SFML 3.1 in which ther
 
 \## How to Build \& Run
 
-1\. Open `TheDrop.slnx` (or `TheDrop.sln`) in \*\*MS Visual Studio\*\*.
+1\. Open `TheDrop.slnx` in \*\*MS Visual Studio\*\*.
 
 2\. Set configuration to \*\*`Debug`\*\* and platform to \*\*`x64`\*\*.
 
